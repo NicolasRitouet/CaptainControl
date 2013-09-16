@@ -1,3 +1,9 @@
+# Deprecated project
+We decided to switch to a different monitoring system.
+Therefore, we relieved CaptainControl of his duties.
+
+
+
 ## Hi, I'm Captain Control!
 I'm a dashboard to monitor almost whatever you want.  
 You have a library of widgets that will grab informations on services you chose and display the way you want the information on a dashboard.  
@@ -20,7 +26,6 @@ My creators built me during a ShipIt day at Zanox.de AG. They are:
 -	Flow tests
 -	Hardware monitoring
 -	Highcharts with json input from url
-	*	Example 1: VU Meter: http://jsfiddle.net/pWbNh/
 
 
 ## HOWTO BUILD A MODULE
